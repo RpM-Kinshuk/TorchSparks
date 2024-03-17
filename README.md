@@ -1,6 +1,8 @@
 # TorchSparks
 Jupyter Notebook containing code for analysis and visualization of transactional data and chosen algorithms for the proposed **Ensemble**.
 
+![WhatsApp Image 2024-03-17 at 16 23 00_55055858](https://github.com/RpM-Kinshuk/TorchSparks/assets/103813028/0861fd5c-e9fd-4311-9436-8f37824eaec0)
+
 ## Overview of anomaly detection algorithms on transaction dataset:
 
 * Multivariate Gaussian probability, Auto Encoders, Local Outlier Factor LOF, Robust Covariance (Elliptic Envelope), Isolation Forest
